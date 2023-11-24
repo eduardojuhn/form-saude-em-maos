@@ -1,0 +1,38 @@
+body{
+  background-color: #212529;
+}
+
+nav {
+  background-color: #4385FF;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 12vmin;
+}
+
+img{
+  padding: 0 20px;
+}
+
+header{
+  color: #4385FF;
+  background-color: #4385FF;
+}
+
+.App-header {
+  background-color: #4385FF;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.form{
+  margin-top: 150px;
+}
